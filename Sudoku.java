@@ -17,7 +17,7 @@ public class Sudoku extends JFrame implements ActionListener, KeyListener {
     int remainingAttempts = 5; // Số lần sai tối đa
 
     public Sudoku() {
-        super("VKU - Sudoku");
+        super("Sudoku");
         init();
     }
 
